@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>3</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>3</endIndex>
+        <item sdImg="http://dl.dropbox.com/u/3325369/FamilyDo/xmas_2011_pool.JPG" hdImg="http://dl.dropbox.com/u/3325369/FamilyDo/xmas_2011_pool.JPG" > 
+                <title>Christmas 2011</title>
+                <contentId>10061</contentId>
+                <contentType>Talk</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>300</streamBitrate>
+                        <streamUrl>http://dl.dropbox.com/u/3325369/FamilyDo/Christmas2011.mov</streamUrl>
+                </media>                
+		<synopsis>December 2011. Dropbox iPhone Videos</synopsis>
+                <genres>Do Family</genres>
+                <runtime></runtime>
+        </item>
+        <item sdImg="" hdImg="" > 
+                <title>Christmas 2011-Bubble Bath</title>
+                <contentId>10061</contentId>
+                <contentType>Talk</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>500</streamBitrate>
+                        <streamUrl>http://dl.dropbox.com/u/3325369/FamilyDo/Bubbles.mov</streamUrl>
+                </media>                
+		<synopsis>December 2011.  Dropbox iPhone Videos</synopsis>
+                <genres>Do Family</genres>
+                <runtime></runtime>
+        </item>
+        <item sdImg="" hdImg="" > 
+                <title>Sydney</title>
+                <contentId>10061</contentId>
+                <contentType>Talk</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>500</streamBitrate>
+                        <streamUrl>http://dl.dropbox.com/u/3325369/FamilyDo/Sydney.mov</streamUrl>
+                </media>                
+		<synopsis>December 2011.  Dropbox iPhone Videos</synopsis>
+                <genres>Do Family</genres>
+                <runtime></runtime>
+        </item>
+</feed>

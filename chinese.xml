@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>3</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>3</endIndex>
+        <item sdImg="http://37days.typepad.com/37days/images/chinese_stroke_order.jpg" hdImg="http://37days.typepad.com/37days/images/chinese_stroke_order.jpg">
+                <title>Stroke Order</title>
+                <contentId>20065</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>m4v</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/strokeorder.flv.m4v</streamUrl>
+                </media>                
+		<synopsis>Ms Wu's video teaching stroke order</synopsis>
+                <genres>Chinese</genres>
+                <runtime>10</runtime>
+        </item>
+        <item sdImg="http://37days.typepad.com/37days/images/chinese_stroke_order.jpg" hdImg="http://37days.typepad.com/37days/images/chinese_stroke_order.jpg">
+                <title>Stroke Name</title>
+                <contentId>20066</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/strokename.flv.m4v</streamUrl>
+                </media>                
+		<synopsis>Ms. Wu's video for teaching stroke name.</synopsis>
+                <genres>Creativity</genres>
+                <runtime></runtime>
+        </item>
+        <item sdImg="http://www.wvusd.k12.ca.us/ourpages/auto/2008/10/1/1222876343068/walnut_elementary_school.jpg" hdImg="http://www.wvusd.k12.ca.us/ourpages/auto/2008/10/1/1222876343068/walnut_elementary_school.jpg">
+                <title>One Thumb Moves</title>
+                <contentId>20070</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/onethumbmoves.flv.m4v</streamUrl>
+                </media>                
+		<synopsis>One Thumb Moves</synopsis>
+                <genres>Creativity</genres>
+                <runtime></runtime>
+        </item>
+        <item sdImg="http://www.wvusd.k12.ca.us/ourpages/auto/2008/10/1/1222876343068/walnut_elementary_school.jpg" hdImg="http://www.wvusd.k12.ca.us/ourpages/auto/2008/10/1/1222876343068/walnut_elementary_school.jpg">
+                <title>Where is My friend?</title>
+                <contentId>20071</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>m4v</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/whereismyfriend.flv.m4v</streamUrl>
+                </media>                
+		<synopsis>Where is My Friend Song</synopsis>
+                <genres>Creativity</genres>
+                <runtime></runtime>
+        </item>
+        <item sdImg="http://img823.imageshack.us/img823/3044/selectionscan030.png" hdImg="http://img823.imageshack.us/img823/3044/selectionscan030.png">
+                <title>Hello Teacher</title>
+                <contentId>20072</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/helloteacher.mp4</streamUrl>
+                </media>                
+		<synopsis>Hello Teacher</synopsis>
+                <genres></genres>
+                <runtime></runtime>
+        </item>
+        <item sdImg="http://www.wvusd.k12.ca.us/ourpages/auto/2008/10/1/1222876343068/walnut_elementary_school.jpg" hdImg="http://www.wvusd.k12.ca.us/ourpages/auto/2008/10/1/1222876343068/walnut_elementary_school.jpg">
+                <title>The Moon Follows Me</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/moonfollowsme.flv.m4v</streamUrl>
+                </media>                
+		<synopsis>The Moon Follows Me</synopsis>
+                <genres></genres>
+                <runtime></runtime>
+        </item>
+        <item sdImg="http://www.wvusd.k12.ca.us/ourpages/auto/2008/10/1/1222876343068/walnut_elementary_school.jpg" hdImg="http://www.wvusd.k12.ca.us/ourpages/auto/2008/10/1/1222876343068/walnut_elementary_school.jpg">
+                <title>Ten Kids</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/tenkids.mp4</streamUrl>
+                </media>                
+		<synopsis>Ms Wu's  Ten Kids</synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://www.wvusd.k12.ca.us/ourpages/auto/2008/10/1/1222876343068/walnut_elementary_school.jpg" hdImg="http://www.wvusd.k12.ca.us/ourpages/auto/2008/10/1/1222876343068/walnut_elementary_school.jpg">
+                <title>Twelve Months</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/twelvemonths.mp4</streamUrl>
+                </media>                
+		<synopsis>"12 Months"</synopsis>
+                <genres></genres>
+                <runtime>670</runtime>
+        </item>
+        <item sdImg="http://images.all-free-download.com/images/graphicmedium/colorful_numbers_clip_art_19811.jpg" hdImg="http://images.all-free-download.com/images/graphicmedium/colorful_numbers_clip_art_19811.jpg">
+                <title>Number Read Along</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/numbersreadalong.mp4</streamUrl>
+                </media>                
+		<synopsis>Ms Wu's Numbers Read Along</synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://img.usabilitypost.com/0809/colors.jpg" hdImg="http://img.usabilitypost.com/0809/colors.jpg">
+                <title>Color Read Along</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/colorreadalong.mp4</streamUrl>
+                </media>                
+		<synopsis>Ms Wu's Colors Read Along</synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://images.all-free-download.com/images/graphicmedium/cartoon_outline_elephant_clip_art_6378.jpg" hdImg="http://images.all-free-download.com/images/graphicmedium/cartoon_outline_elephant_clip_art_6378.jpg">
+                <title>Elephant</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/elephant.mp4</streamUrl>
+                </media>                
+		<synopsis>Ms Wu's Elephant video</synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://all-free-download.com/free-vector/vector-clip-art/duck_54905.html" hdImg="http://all-free-download.com/free-vector/vector-clip-art/duck_54905.html">
+                <title>Ugly Ducking</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/uglyduckling.mp4</streamUrl>
+                </media>                
+		<synopsis></synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://2.bp.blogspot.com/_Pcgi4eJi_3M/TEuVwr8inMI/AAAAAAAAAKA/K0WphGJXsZ0/s400/monkey+balloon.jpg" hdImg="http://2.bp.blogspot.com/_Pcgi4eJi_3M/TEuVwr8inMI/AAAAAAAAAKA/K0WphGJXsZ0/s400/monkey+balloon.jpg">
+                <title>Monkey's Week</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/monkeyweek.mp4</streamUrl>
+                </media>                
+		<synopsis></synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://images.all-free-download.com/images/graphicmedium/circles_ellipses_triangles_squares_rectangles_shapes_clip_art_12864.jpg" hdImg="http://images.all-free-download.com/images/graphicmedium/circles_ellipses_triangles_squares_rectangles_shapes_clip_art_12864.jpg">
+                <title>What is this shape?</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/whatisthisshape.mp4</streamUrl>
+                </media>                
+		<synopsis></synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://www.webweaver.nu/clipart/img/education/schedule-book.jpg" hdImg="http://www.webweaver.nu/clipart/img/education/schedule-book.jpg">
+                <title>I Can Idenify</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/icanidentify.mp4</streamUrl>
+                </media>                
+		<synopsis></synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://www.webweaver.nu/clipart/img/education/schedule-book.jpg" hdImg="http://www.webweaver.nu/clipart/img/education/schedule-book.jpg">
+                <title>I Can Read</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/icanread.mp4</streamUrl>
+                </media>                
+		<synopsis></synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://images.all-free-download.com/images/graphicmedium/circles_ellipses_triangles_squares_rectangles_shapes_clip_art_12864.jpg" hdImg="http://images.all-free-download.com/images/graphicmedium/circles_ellipses_triangles_squares_rectangles_shapes_clip_art_12864.jpg">
+                <title>Square (Minibook)</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/squareminibook.mp4</streamUrl>
+                </media>                
+		<synopsis></synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://images.all-free-download.com/images/graphicmedium/circles_ellipses_triangles_squares_rectangles_shapes_clip_art_12864.jpg" hdImg="http://images.all-free-download.com/images/graphicmedium/circles_ellipses_triangles_squares_rectangles_shapes_clip_art_12864.jpg">
+                <title>Triangle (Minibook)</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/triangleminibook.mp4</streamUrl>
+                </media>                
+		<synopsis></synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://images.all-free-download.com/images/graphicmedium/circles_ellipses_triangles_squares_rectangles_shapes_clip_art_12864.jpg" hdImg="http://images.all-free-download.com/images/graphicmedium/circles_ellipses_triangles_squares_rectangles_shapes_clip_art_12864.jpg">
+                <title>Circle (Minibook)</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/circleminibook.mp4</streamUrl>
+                </media>                
+		<synopsis></synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://images.all-free-download.com/images/graphicmedium/backpack_clip_art_31714.jpg" hdImg="http://images.all-free-download.com/images/graphicmedium/backpack_clip_art_31714.jpg">
+                <title>I Can Read  (Backpack)</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/backpackicanread.mp4</streamUrl>
+                </media>                
+		<synopsis></synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://images.all-free-download.com/images/graphicmedium/backpack_clip_art_31714.jpg" hdImg="http://images.all-free-download.com/images/graphicmedium/backpack_clip_art_31714.jpg">
+                <title>I Can Recognize Words (Backpack)</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/backpackrecognizingwords.mp4</streamUrl>
+                </media>                
+		<synopsis></synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://www.tourchinatravel.com/Learn-Chinese/Chinese-hello/Chinese-hello.jpg" hdImg="http://www.tourchinatravel.com/Learn-Chinese/Chinese-hello/Chinese-hello.jpg">
+                <title>Chinese Lessson: Foods</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/chinese_lessons.m4v.m4v</streamUrl>
+                </media>                
+		<synopsis>Market place</synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://help.com/user-avatars/f5/user-photo-302269-972728.jpg" hdImg="http://help.com/user-avatars/f5/user-photo-302269-972728.jpg">
+                <title>Little Pim Teaches chinese</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/little_pim_chinese.m4v.m4v</streamUrl>
+                </media>                
+		<synopsis>Little Pim teaches Chinese Teacher.</synopsis>
+                <genres></genres>
+                <runtime></runtime>
+        </item>
+</feed>

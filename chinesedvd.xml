@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>3</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>3</endIndex>
+        <item sdImg="http://www.tourchinatravel.com/Learn-Chinese/Chinese-hello/Chinese-hello.jpg" hdImg="http://www.tourchinatravel.com/Learn-Chinese/Chinese-hello/Chinese-hello.jpg">
+                <title>Chinese Lessson: Foods</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/chinese_lessons.m4v.m4v</streamUrl>
+                </media>                
+		<synopsis>Market place</synopsis>
+                <genres></genres>
+                <runtime>3600</runtime>
+        </item>
+        <item sdImg="http://help.com/user-avatars/f5/user-photo-302269-972728.jpg" hdImg="http://help.com/user-avatars/f5/user-photo-302269-972728.jpg">
+                <title>Little Pim Teaches chinese</title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/little_pim_chinese.m4v.m4v</streamUrl>
+                </media>                
+		<synopsis>Little Pim teaches Chinese Teacher.</synopsis>
+                <genres></genres>
+                <runtime></runtime>
+        </item>
+        <item sdImg="http://help.com/user-avatars/f5/user-photo-302269-972728.jpg" hdImg="http://help.com/user-avatars/f5/user-photo-302269-972728.jpg">
+                <title>Communicate in Chinese </title>
+                <contentId>20073</contentId>
+                <contentType>Chinese</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>mp4</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>700</streamBitrate>
+                        <streamUrl>http://zsamplevideo.s3.amazonaws.com/communicate_in_chinese.mp4</streamUrl>
+                </media>                
+		<synopsis>Communicate in Chinese video.  I'm not sure where I found this video.   </synopsis>
+                <genres></genres>
+                <runtime></runtime>
+        </item>
+</feed>
